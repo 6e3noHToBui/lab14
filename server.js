@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   const ip = req.socket.remoteAddress;
   const now = new Date();
   const localtime = now.toLocaleString('pl-PL', { timeZone: 'Europe/Warsaw' });
-  res.write(`<h1>Adres IP Artur Moroza: ${ip}</h1>`);
+  res.write(`<h1>Adres IP: ${ip}</h1>`);
   res.write(`<p>Data i godzina: ${localtime}</p>`);
   res.end();
 });
