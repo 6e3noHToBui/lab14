@@ -4,7 +4,7 @@
 <h3 align="left"> a)Pobrać pliki Dockerfile,server.js,package.js</h3>
 <h3 align="left"> b)W terminalu przejść do katalogu z pkilami </h3>
 <h3 align="left"> c)Zbudować obraz poleceniem: 
-                      docker build -t zad1 . #(zad1 - nazwa obrazu, może być dowolną</h3>
+                      docker build -t zad1 . </h3>
 <h3 align="left"> d)Uruchomić kontener poleceniem:
                       docker run -p 3000:3000 zad1</h3>
 <h3 align="left"> e)Przejśćna stronę za adresem:
