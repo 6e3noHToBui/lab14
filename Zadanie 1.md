@@ -1,5 +1,5 @@
-Laboratorium wykonany studentem: Artur Moroz
-
+<h1 align="center">Laboratorium wykonany studentem: Artur Moroz
+<img src="https://github.com/6e3noHToBui/chmury/blob/main/wynik.png"/></h1>
 Postęp uruchomienia:
   a)Pobrać pliki Dockerfile,server.js,package.js
   b)W terminalu przejść do katalogu z pkilami
