@@ -22,4 +22,5 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          repository: 6e3noHToBui/zadanie1:latest
+          repository: 6e3noHToBui/zadanie1
+          tag: latest
