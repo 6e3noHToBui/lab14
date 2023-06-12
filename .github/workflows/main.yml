@@ -22,5 +22,6 @@ jobs:
             context: .
             file: Dockerfile
             push: true
+            registry: docker.io
             repository: 6e3nohtobui/zadanie1
             tags: latest
